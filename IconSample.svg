@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="420.711" id="Filter" width="929.565" x="65.7531" y="288.618">
+<feDropShadow dx="-8.82386e-05" dy="24.0222" flood-color="#000000" flood-opacity="0.981954" in="SourceGraphic" result="Shadow" stdDeviation="12.0111"/>
+</filter>
+</defs>
+<path d="M0 0L1024 0L1024 1024L0 1024L0 0Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
+<clipPath id="ArtboardFrame">
+<rect height="1024" width="1024" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="レイヤー-2" vectornator:layerName="レイヤー 2">
+<path d="M0-5.68434e-14L1024-5.68434e-14L1024 1024L0 1024L0-5.68434e-14Z" fill="#000000" fill-opacity="0.981954" fill-rule="nonzero" opacity="0.992308" stroke="#ff4433" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10.3056" vectornator:layerName="長方形 1"/>
+<path d="M1001.47 554.102L1001.47 1006.5L22.5333 1006.5L22.5333 17.5L446.973 17.5L1001.47 17.5L1001.47 554.102" fill="#ff4433" fill-rule="nonzero" opacity="0.992308" stroke="#ffd033" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10.6434" vectornator:layerName="長方形 1"/>
+<g fill="#e7e3d5" filter="url(#Filter)" stroke="#f0ede4" stroke-linecap="butt" stroke-linejoin="round" stroke-width="6.16122" vectornator:layerName="Text 2" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="24.0222" vectornator:shadowOpacity="0.981954" vectornator:shadowRadius="24.0222">
+<path d="M213.59 651.082L140.837 650.978L202.808 356.921L99.2188 356.773L111.565 297.769L389.81 298.166L377.464 357.17L275.32 357.024L213.59 651.082Z"/>
+<path d="M488.704 651.475L429.2 651.39L378.148 395.475L446.083 395.572L464.037 507.137C468.985 537.338 471.936 557.417 472.89 567.376C474.177 564.648 479.769 554.257 489.664 536.203C499.56 518.149 505.634 507.277 507.886 503.586L571.594 395.751L646.275 395.858L488.704 651.475Z"/>
+<path d="M708.168 651.788L635.415 651.684L709.732 298.623L853.311 298.828C878.847 298.865 899.04 301.905 913.89 307.949C928.739 313.993 940.493 323.967 949.152 337.871C957.81 351.776 962.13 368.364 962.11 387.637C962.092 405.464 958.621 422.804 951.698 439.657C944.775 456.511 936.29 469.99 926.242 480.093C916.194 490.197 905.385 497.85 893.816 503.053C882.248 508.256 866.665 512.209 847.069 514.911C835.664 516.501 814.303 517.274 782.986 517.229L736.491 517.162L708.168 651.788ZM748.596 458.64L771 458.672C809.384 458.727 835.003 456.354 847.856 451.554C860.709 446.755 870.835 439.06 878.234 428.471C885.632 417.882 889.338 406.243 889.351 393.555C889.359 385.044 887.479 378.055 883.711 372.589C879.942 367.123 874.646 363.14 867.823 360.641C861 358.142 845.784 356.876 822.175 356.842L770.14 356.768L748.596 458.64Z"/>
+</g>
+</g>
+</svg>
