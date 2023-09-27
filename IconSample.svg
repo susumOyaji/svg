@@ -1,23 +1,153 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Created with Vectornator (http://vectornator.io/) -->
-<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="420.711" id="Filter" width="929.565" x="65.7531" y="288.618">
-<feDropShadow dx="-8.82386e-05" dy="24.0222" flood-color="#000000" flood-opacity="0.981954" in="SourceGraphic" result="Shadow" stdDeviation="12.0111"/>
-</filter>
-</defs>
-<path d="M0 0L1024 0L1024 1024L0 1024L0 0Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
-<clipPath id="ArtboardFrame">
-<rect height="1024" width="1024" x="0" y="0"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="レイヤー-2" vectornator:layerName="レイヤー 2">
-<path d="M0-5.68434e-14L1024-5.68434e-14L1024 1024L0 1024L0-5.68434e-14Z" fill="#000000" fill-opacity="0.981954" fill-rule="nonzero" opacity="0.992308" stroke="#ff4433" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10.3056" vectornator:layerName="長方形 1"/>
-<path d="M1001.47 554.102L1001.47 1006.5L22.5333 1006.5L22.5333 17.5L446.973 17.5L1001.47 17.5L1001.47 554.102" fill="#ff4433" fill-rule="nonzero" opacity="0.992308" stroke="#ffd033" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10.6434" vectornator:layerName="長方形 1"/>
-<g fill="#e7e3d5" filter="url(#Filter)" stroke="#f0ede4" stroke-linecap="butt" stroke-linejoin="round" stroke-width="6.16122" vectornator:layerName="Text 2" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="24.0222" vectornator:shadowOpacity="0.981954" vectornator:shadowRadius="24.0222">
-<path d="M213.59 651.082L140.837 650.978L202.808 356.921L99.2188 356.773L111.565 297.769L389.81 298.166L377.464 357.17L275.32 357.024L213.59 651.082Z"/>
-<path d="M488.704 651.475L429.2 651.39L378.148 395.475L446.083 395.572L464.037 507.137C468.985 537.338 471.936 557.417 472.89 567.376C474.177 564.648 479.769 554.257 489.664 536.203C499.56 518.149 505.634 507.277 507.886 503.586L571.594 395.751L646.275 395.858L488.704 651.475Z"/>
-<path d="M708.168 651.788L635.415 651.684L709.732 298.623L853.311 298.828C878.847 298.865 899.04 301.905 913.89 307.949C928.739 313.993 940.493 323.967 949.152 337.871C957.81 351.776 962.13 368.364 962.11 387.637C962.092 405.464 958.621 422.804 951.698 439.657C944.775 456.511 936.29 469.99 926.242 480.093C916.194 490.197 905.385 497.85 893.816 503.053C882.248 508.256 866.665 512.209 847.069 514.911C835.664 516.501 814.303 517.274 782.986 517.229L736.491 517.162L708.168 651.788ZM748.596 458.64L771 458.672C809.384 458.727 835.003 456.354 847.856 451.554C860.709 446.755 870.835 439.06 878.234 428.471C885.632 417.882 889.338 406.243 889.351 393.555C889.359 385.044 887.479 378.055 883.711 372.589C879.942 367.123 874.646 363.14 867.823 360.641C861 358.142 845.784 356.876 822.175 356.842L770.14 356.768L748.596 458.64Z"/>
-</g>
-</g>
-</svg>
+
+<svg
+   height="100%"
+   stroke-miterlimit="10"
+   style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;"
+   version="1.1"
+   viewBox="0 0 1024 1024"
+   width="100%"
+   xml:space="preserve"
+   id="svg6"
+   sodipodi:docname="IconSample.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:vectornator="http://vectornator.io"><sodipodi:namedview
+   id="namedview6"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   showgrid="false"
+   inkscape:zoom="1.1533203"
+   inkscape:cx="475.58341"
+   inkscape:cy="789.45979"
+   inkscape:window-width="1860"
+   inkscape:window-height="1361"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg6" />&#10;<defs
+   id="defs1">&#10;<filter
+   color-interpolation-filters="sRGB"
+   filterUnits="userSpaceOnUse"
+   height="420.711"
+   id="Filter"
+   width="929.565"
+   x="65.7531"
+   y="288.618">&#10;<feDropShadow
+   dx="-8.82386e-05"
+   dy="24.0222"
+   flood-color="#000000"
+   flood-opacity="0.981954"
+   in="SourceGraphic"
+   result="Shadow"
+   stdDeviation="12.0111" />&#10;</filter>&#10;<filter
+   style="color-interpolation-filters:sRGB;"
+   inkscape:label="Drop Shadow"
+   id="filter7"
+   x="-0.012199057"
+   y="-0.02834594"
+   width="1.0319311"
+   height="1.0741957"><feFlood
+     result="flood"
+     in="SourceGraphic"
+     flood-opacity="0.976471"
+     flood-color="rgb(0,0,0)"
+     id="feFlood6" /><feGaussianBlur
+     result="blur"
+     in="SourceGraphic"
+     stdDeviation="3.000000"
+     id="feGaussianBlur6" /><feOffset
+     result="offset"
+     in="blur"
+     dx="6.000000"
+     dy="6.000000"
+     id="feOffset6" /><feComposite
+     result="comp1"
+     operator="in"
+     in="flood"
+     in2="offset"
+     id="feComposite6" /><feComposite
+     result="comp2"
+     operator="over"
+     in="SourceGraphic"
+     in2="comp1"
+     id="feComposite7" /></filter></defs>&#10;<path
+   d="M0 0L1024 0L1024 1024L0 1024L0 0Z"
+   fill="#ffffff"
+   fill-rule="nonzero"
+   opacity="1"
+   stroke="none"
+   id="path1" />&#10;<clipPath
+   id="ArtboardFrame">&#10;<rect
+   height="1024"
+   width="1024"
+   x="0"
+   y="0"
+   id="rect1" />&#10;</clipPath>&#10;<g
+   clip-path="url(#ArtboardFrame)"
+   id="レイヤー-2"
+   vectornator:layerName="レイヤー 2"
+   style="display:inline">&#10;<path
+   d="M 0,0 H 1024 V 1024 H 0 Z"
+   fill="#000000"
+   fill-opacity="0.981954"
+   fill-rule="nonzero"
+   opacity="0.992308"
+   stroke="#ff4433"
+   stroke-linecap="butt"
+   stroke-linejoin="round"
+   stroke-width="10.3056"
+   vectornator:layerName="長方形 1"
+   id="path2" />&#10;<path
+   d="M 1001.47,554.102 V 1006.5 H 22.5333 V 17.5 H 446.973 1001.47 v 536.602"
+   fill="#ff4433"
+   fill-rule="nonzero"
+   opacity="0.992308"
+   stroke="#ffd033"
+   stroke-linecap="butt"
+   stroke-linejoin="round"
+   stroke-width="10.6434"
+   vectornator:layerName="長方形 1"
+   id="path3" />&#10;<g
+   fill="#e7e3d5"
+   filter="url(#Filter)"
+   stroke="#f0ede4"
+   stroke-linecap="butt"
+   stroke-linejoin="round"
+   stroke-width="6.16122"
+   vectornator:layerName="Text 2"
+   vectornator:shadowAngle="1.5708"
+   vectornator:shadowColor="#000000"
+   vectornator:shadowOffset="24.0222"
+   vectornator:shadowOpacity="0.981954"
+   vectornator:shadowRadius="24.0222"
+   id="g6">&#10;<path
+   d="m 213.97786,1205.9133 -71.84052,-0.2668 61.19375,-754.31784 -102.28997,-0.37965 12.19135,-151.35764 274.75521,1.01839 -12.19115,151.35764 -100.8629,-0.37452 z"
+   id="path4"
+   style="stroke-width:9.8059" />&#10;<path
+   d="m 489.11204,1216.2062 -58.47112,-0.2667 -50.16583,-802.53014 66.75578,0.30433 17.64234,349.85943 c 4.86211,94.70808 7.7619,157.67429 8.69934,188.90497 1.26465,-8.55479 6.75959,-41.1402 16.48283,-97.75616 9.72423,-56.616 15.69279,-90.70977 17.9057,-102.28449 l 62.60216,-338.16241 73.38467,0.33552 z"
+   id="path5"
+   style="stroke-width:10.8155" />&#10;<path
+   d="m 565.70759,1151.5311 -77.14145,-0.1364 78.79979,-462.90928 152.23965,0.26878 c 27.07633,0.0485 48.48736,4.03435 64.23311,11.95883 15.74469,7.92448 28.20769,21.0017 37.389,39.23166 9.18025,18.23128 13.76083,39.98032 13.73962,65.24975 -0.0191,23.37353 -3.69945,46.10854 -11.04005,68.20503 -7.34059,22.0978 -16.33741,39.77054 -26.9915,53.01689 -10.65409,13.24767 -22.11509,23.28176 -34.38193,30.10357 -12.26578,6.82182 -28.78874,12.00472 -49.56677,15.54739 -12.09294,2.0847 -34.74243,3.0982 -67.94847,3.0392 l -49.29956,-0.0878 z m 42.86661,-253.24243 23.7554,0.042 c 40.69931,0.0721 67.86365,-3.03921 81.49194,-9.33263 13.62829,-6.29212 24.36508,-16.38127 32.21039,-30.26484 7.84425,-13.88357 11.77379,-29.14382 11.78758,-45.77945 0.008,-11.15904 -1.98492,-20.32253 -5.98021,-27.48917 -3.99634,-7.16664 -9.6118,-12.38888 -16.84636,-15.6654 -7.23456,-3.27651 -23.36839,-4.9364 -48.40148,-4.98098 l -55.17373,-0.097 z"
+   id="path6"
+   style="display:inline;opacity:1;mix-blend-mode:normal;stroke-width:7.26454" />&#10;</g>&#10;</g>&#10;<text
+   xml:space="preserve"
+   style="font-style:italic;font-weight:bold;font-size:524.678px;line-height:0px;font-family:Corbel;-inkscape-font-specification:'Corbel, Bold Italic';display:inline;opacity:1;fill:#ffffff;stroke:#ead4d4;stroke-width:5.033;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter7)"
+   x="59.938126"
+   y="696.36786"
+   id="text6"
+   transform="scale(0.98423336,1.0160192)"><tspan
+     sodipodi:role="line"
+     id="tspan6"
+     x="0"
+     y="0"
+     style="stroke:#ead4d4;stroke-width:5.033;stroke-dasharray:none;stroke-opacity:1">TvP</tspan></text></svg>
