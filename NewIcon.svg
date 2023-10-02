@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="1112.23" id="Filter" width="1112.23" x="-44.1163" y="-9.31042">
+<feDropShadow dx="-0.000127849" dy="34.8058" flood-color="#000000" flood-opacity="0.981954" in="SourceGraphic" result="Shadow" stdDeviation="15.6845"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="561.259" id="Filter_2" width="960.422" x="-14.4367" y="303.928">
+<feDropShadow dx="-0.000309623" dy="84.2922" flood-color="#000000" flood-opacity="0.981954" in="SourceGraphic" result="Shadow" stdDeviation="37.9846"/>
+</filter>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="1024" width="1024" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="レイヤー-1" vectornator:layerName="レイヤー 1">
+<path d="M0 7.10543e-14L1024 7.10543e-14L1024 1024L0 1024L0 7.10543e-14Z" fill="#ff4433" fill-rule="nonzero" filter="url(#Filter)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="0.981954" stroke-width="9.8098" vectornator:layerName="長方形 1" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="34.8058" vectornator:shadowOpacity="0.981954" vectornator:shadowRadius="31.369"/>
+<g fill="#ff4433" filter="url(#Filter_2)" stroke="#e7e3d5" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.425518" vectornator:layerName="Text 1" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="84.2922" vectornator:shadowOpacity="0.981954" vectornator:shadowRadius="75.9692">
+<path d="M80.7378 318.957L383.22 318.957L383.22 365.094L256.992 365.094L256.992 681.573L204.893 681.573L204.893 365.094L80.7378 365.094L80.7378 318.957Z"/>
+<path d="M571.656 443.112L622.718 443.112L517.484 685.721L501.673 685.721L393.847 443.112L445.428 443.112L509.708 589.818L571.656 443.112Z"/>
+<path d="M754.39 529.684L714.992 505.838C690.282 490.805 672.7 475.987 662.246 461.386C651.791 446.784 646.564 429.98 646.564 410.972C646.564 382.46 656.457 359.305 676.242 341.507C696.028 323.709 721.731 314.81 753.353 314.81C783.593 314.81 811.327 323.277 836.555 340.211L836.555 399.049C810.463 373.993 782.383 361.465 752.317 361.465C735.382 361.465 721.472 365.397 710.586 373.259C699.7 381.121 694.256 391.187 694.256 403.455C694.256 414.342 698.231 424.537 706.18 434.041C714.128 443.544 727.002 453.48 744.8 463.848L784.457 487.176C828.693 513.441 850.811 546.964 850.811 587.744C850.811 616.774 841.091 640.361 821.652 658.505C802.212 676.649 776.94 685.721 745.837 685.721C710.067 685.721 677.495 674.748 648.119 652.803L648.119 586.967C676.113 622.39 708.512 640.102 745.318 640.102C761.561 640.102 775.083 635.566 785.882 626.494C796.682 617.422 802.082 606.061 802.082 592.41C802.082 570.292 786.185 549.383 754.39 529.684Z"/>
+</g>
+</g>
+</svg>
