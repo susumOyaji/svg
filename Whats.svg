@@ -18,15 +18,15 @@
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#509850"
+     inkscape:deskcolor="#000000"
      inkscape:document-units="mm"
      inkscape:zoom="0.81552061"
-     inkscape:cx="597.77765"
-     inkscape:cy="511.94291"
+     inkscape:cx="596.55145"
+     inkscape:cy="511.94292"
      inkscape:window-width="1811"
      inkscape:window-height="1361"
-     inkscape:window-x="-6"
-     inkscape:window-y="5"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer2" />
   <defs
@@ -47,7 +47,7 @@
      style="display:inline">
     <g
        id="g5"
-       transform="translate(47.822212,-91.965793)">
+       transform="translate(42.91737,-147.14527)">
       <ellipse
          style="display:inline;opacity:1;fill:#3f99ff;fill-opacity:1;stroke:#ffffff;stroke-width:5.99125;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
          id="path2"
@@ -80,7 +80,7 @@
      inkscape:label="Layer 2">
     <g
        id="g6"
-       transform="translate(3.6786317,57.6319)">
+       transform="translate(7.3572634,-181.47916)">
       <ellipse
          style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:3.16015;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="path5"
@@ -112,6 +112,68 @@
          dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6.9409547">what's <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:110.081px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0"
    id="tspan3-5">s</tspan>howing at Entertainment</text>
+    </g>
+    <text
+       fill="#000000"
+       font-family="serif"
+       font-size="228.151px"
+       id="svg_180-8-1"
+       stroke-width="0"
+       text-anchor="middle"
+       transform="scale(0.75444977,1.3254693)"
+       x="749.44562"
+       xml:space="preserve"
+       y="412.94931"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:87.4737px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;display:inline;fill:#000000;stroke-width:0"
+       dx="0 0 0 0 0 0 0 0 4.3341179 0 0 0 0 0 0 0 0 -27.763813 47.198486 4.6278"
+       dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6.9409547">what's <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:110.081px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:0"
+   id="tspan3-5-4">s</tspan>howing at <tspan
+   style="fill:#ff6600"
+   id="tspan1">E</tspan>ntertainment</text>
+    <g
+       id="g8"
+       transform="matrix(1.2221946,0,0,1.2326532,-25.466481,-128.55687)">
+      <rect
+         style="fill:#ffff00;stroke:#ffffff;stroke-width:2.45332;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="rect1"
+         width="318.83923"
+         height="125.08969"
+         x="55.167233"
+         y="598.3866" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.771px;line-height:0px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.65282;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="104.66138"
+         y="588.21722"
+         id="text2"
+         transform="scale(0.83309001,1.2003505)"
+         inkscape:label="text1"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           x="104.66138"
+           y="588.21722"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.771px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.65282"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.771px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.65282"
+   id="tspan4">what's</tspan> </tspan></text>
+      <rect
+         style="fill:#000000;stroke:#ffffff;stroke-width:2.99916;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="rect2"
+         width="541.49854"
+         height="128.23038"
+         x="371.78506"
+         y="596.19916" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.277px;line-height:0px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffff00;stroke:none;stroke-width:2.477;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="416.91159"
+         y="700.16626"
+         id="text8"
+         inkscape:label="text2"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           x="416.91159"
+           y="700.16626">showing </tspan></text>
     </g>
   </g>
 </svg>
