@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <style>@import url(https://fonts.googleapis.com/css?family=Contrail+One:400);</style>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_175" transform="matrix(10.0777 0 0 10.1721 -636.224 -506.094)">
+   <g id="g-1">
+    <g id="g-2">
+     <path class="st0" d="m64.019749,49.970589l100,0l0,100l-100,0l0,-100z" fill="rgb(252, 63, 20)" id="svg_176" stroke="rgb(232, 234, 220)"/>
+    </g>
+   </g>
+  </g>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_180" stroke-width="0" text-anchor="middle" transform="matrix(8.23315 0 0 15.2062 -1044.44 -5433.93)" x="183.453125" xml:space="preserve" y="397.234375">123456</text>
+ </g>
+</svg>

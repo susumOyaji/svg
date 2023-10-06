@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="297mm"
+   height="210mm"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Whats.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#509850"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.81552061"
+     inkscape:cx="597.77765"
+     inkscape:cy="511.94291"
+     inkscape:window-width="1811"
+     inkscape:window-height="1361"
+     inkscape:window-x="-6"
+     inkscape:window-y="5"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <rect
+       x="52.727055"
+       y="476.99591"
+       width="908.62207"
+       height="365.41074"
+       id="rect4" />
+    <style
+       id="style1">@import url(https://fonts.googleapis.com/css?family=Contrail+One:400);</style>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:inline">
+    <g
+       id="g5"
+       transform="translate(47.822212,-91.965793)">
+      <ellipse
+         style="display:inline;opacity:1;fill:#3f99ff;fill-opacity:1;stroke:#ffffff;stroke-width:5.99125;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path2"
+         cx="527.88336"
+         cy="397.29193"
+         rx="74.932816"
+         ry="76.772141"
+         inkscape:label="path2"
+         transform="matrix(0.98576744,0,0,0.94609495,-39.862133,-112.86217)" />
+      <text
+         fill="#000000"
+         font-family="serif"
+         font-size="228.151px"
+         id="svg_180"
+         stroke-width="0"
+         text-anchor="middle"
+         transform="matrix(0.80721681,0,0,1.1553644,-39.862133,-112.86217)"
+         x="687.76056"
+         xml:space="preserve"
+         y="375.37238"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:159.934px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;display:inline;fill:#000000;stroke-width:0"
+         dx="0 0 0 0 0 0 0 0 66.215385">what's <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:201.268px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+   id="tspan3">s</tspan>howing</text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g6"
+       transform="translate(3.6786317,57.6319)">
+      <ellipse
+         style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:3.16015;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path5"
+         cx="668.28485"
+         cy="475.15659"
+         rx="54.837898"
+         ry="55.451004" />
+      <ellipse
+         style="display:inline;fill:#ff2a2a;fill-opacity:1;stroke:#ffffff;stroke-width:4.21462;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path2-8"
+         cx="254.48035"
+         cy="465.20657"
+         rx="53.806396"
+         ry="52.908535"
+         inkscape:label="path2" />
+      <text
+         fill="#000000"
+         font-family="serif"
+         font-size="228.151px"
+         id="svg_180-8"
+         stroke-width="0"
+         text-anchor="middle"
+         transform="scale(0.75444977,1.3254693)"
+         x="744.62476"
+         xml:space="preserve"
+         y="383.08588"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:87.4737px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;display:inline;fill:#000000;stroke-width:0"
+         dx="0 0 0 0 0 0 0 0 36.215584 0 0 0 0 0 0 0 0 -27.763813 47.198486 29.152002"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6.9409547">what's <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:110.081px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0"
+   id="tspan3-5">s</tspan>howing at Entertainment</text>
+    </g>
+  </g>
+</svg>
