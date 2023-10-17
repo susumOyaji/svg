@@ -21,14 +21,24 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="mm"
      inkscape:zoom="0.81552061"
-     inkscape:cx="596.55145"
-     inkscape:cy="511.94292"
-     inkscape:window-width="1811"
+     inkscape:cx="561.60445"
+     inkscape:cy="396.67912"
+     inkscape:window-width="1820"
      inkscape:window-height="1361"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer6"
+     showgrid="false">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1122.5197"
+       height="793.70081"
+       id="page1"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <rect
@@ -44,10 +54,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Layer 1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(1682.6228,-489.74841)">
     <g
        id="g5"
-       transform="translate(42.91737,-147.14527)">
+       transform="translate(-1639.7054,342.60314)"
+       style="display:inline">
       <ellipse
          style="display:inline;opacity:1;fill:#3f99ff;fill-opacity:1;stroke:#ffffff;stroke-width:5.99125;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
          id="path2"
@@ -77,10 +89,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2">
+     inkscape:label="Layer 2"
+     style="display:inline"
+     transform="translate(1682.6228,-489.74841)">
     <g
        id="g6"
-       transform="translate(7.3572634,-181.47916)">
+       transform="translate(-1675.2655,308.26925)">
       <ellipse
          style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:3.16015;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="path5"
@@ -121,9 +135,9 @@
        stroke-width="0"
        text-anchor="middle"
        transform="scale(0.75444977,1.3254693)"
-       x="749.44562"
+       x="-1480.8192"
        xml:space="preserve"
-       y="412.94931"
+       y="782.43988"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:87.4737px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;display:inline;fill:#000000;stroke-width:0"
        dx="0 0 0 0 0 0 0 0 4.3341179 0 0 0 0 0 0 0 0 -27.763813 47.198486 4.6278"
        dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6.9409547">what's <tspan
@@ -133,7 +147,7 @@
    id="tspan1">E</tspan>ntertainment</text>
     <g
        id="g8"
-       transform="matrix(1.2221946,0,0,1.2326532,-25.466481,-128.55687)">
+       transform="matrix(1.2221946,0,0,1.2326532,-1708.0892,361.19154)">
       <rect
          style="fill:#ffff00;stroke:#ffffff;stroke-width:2.45332;stroke-linejoin:round;paint-order:fill markers stroke"
          id="rect1"
@@ -176,4 +190,15 @@
            y="700.16626">showing </tspan></text>
     </g>
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 3"
+     style="display:inline"
+     transform="translate(1682.6228,-489.74841)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 4"
+     transform="translate(1682.6228,-489.74841)" />
 </svg>
